@@ -1,4 +1,13 @@
 1. Decide on a pizza distributor
-2. Decide which type of pizza to order (round, square, thin crust, gluten free, deep dish, chicago style)
-3. Decide which toppings you want (type of cheese, meats, vegetables)
-4. Decide if you want the pizza to be well-done or not
+2. Decide which size (small, medium, large, extra large, party tray) 
+3. Decide which type of pizza to order (round, square, thin crust, gluten free, deep dish, chicago style)
+4. Decide which toppings you want (type of cheese, meats, and vegetables)
+5. Decide if you want the pizza to be well-done or not
+6. Decide which type of flavored crust to be added (none, butter, garlic parm, butter garlic parm)
+7. Decide if you want any sides with the pizza (cheese bread, salad, ranch)
+8. Decide if you want any drinks with the pizza (2L coke, sprite, lemonade)
+9. Call the pizza distributor selected in Step 1
+10. First, tell the distributor if you are picking up the order, or want it delivered
+11. If delivery method is selected, provide name, phone number, and delivery address
+12. If pickup method is selected, provide name, and phone number
+13. After method and contact info are given, you will be asked for your order. Reply with your answers from Steps 2-8
